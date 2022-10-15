@@ -3,6 +3,10 @@ section 2 assignments
 changes
 here
 =======
+<<<<<<< HEAD
 master change
+=======
+minor changes
+>>>>>>> js-assignments
 section 3 changes
 >>>>>>> css-assignments
