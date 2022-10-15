@@ -3,6 +3,6 @@ section 2 assignments
 changes
 here
 =======
-
+master change
 section 3 changes
 >>>>>>> css-assignments
